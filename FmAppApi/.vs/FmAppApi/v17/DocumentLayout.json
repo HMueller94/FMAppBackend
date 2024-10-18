@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\hendr\\OneDrive\\Dokumente\\Repos\\FMAppBackend\\FmAppApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F75F53FD-498C-439B-8026-C9FE7E48C1FE}|FmAppApi\\FmAppApi.csproj|c:\\users\\hendr\\onedrive\\dokumente\\repos\\fmappbackend\\fmappapi\\fmappapi\\functions\\players\\getplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75F53FD-498C-439B-8026-C9FE7E48C1FE}|FmAppApi\\FmAppApi.csproj|solutionrelative:fmappapi\\functions\\players\\getplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75F53FD-498C-439B-8026-C9FE7E48C1FE}|FmAppApi\\FmAppApi.csproj|c:\\users\\hendr\\onedrive\\dokumente\\repos\\fmappbackend\\fmappapi\\fmappapi\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F75F53FD-498C-439B-8026-C9FE7E48C1FE}|FmAppApi\\FmAppApi.csproj|solutionrelative:fmappapi\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F75F53FD-498C-439B-8026-C9FE7E48C1FE}|FmAppApi\\FmAppApi.csproj|c:\\users\\hendr\\onedrive\\dokumente\\repos\\fmappbackend\\fmappapi\\fmappapi\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F75F53FD-498C-439B-8026-C9FE7E48C1FE}|FmAppApi\\FmAppApi.csproj|solutionrelative:fmappapi\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,11 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\hendr\\OneDrive\\Dokumente\\Repos\\FMAppBackend\\FmAppApi\\FmAppApi\\local.settings.json",
+              "RelativeDocumentMoniker": "FmAppApi\\local.settings.json",
+              "ToolTip": "C:\\Users\\hendr\\OneDrive\\Dokumente\\Repos\\FMAppBackend\\FmAppApi\\FmAppApi\\local.settings.json",
+              "RelativeToolTip": "FmAppApi\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T08:08:53.071Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GetPlayers.cs",
+              "DocumentMoniker": "C:\\Users\\hendr\\OneDrive\\Dokumente\\Repos\\FMAppBackend\\FmAppApi\\FmAppApi\\Functions\\Players\\GetPlayers.cs",
+              "RelativeDocumentMoniker": "FmAppApi\\Functions\\Players\\GetPlayers.cs",
+              "ToolTip": "C:\\Users\\hendr\\OneDrive\\Dokumente\\Repos\\FMAppBackend\\FmAppApi\\FmAppApi\\Functions\\Players\\GetPlayers.cs",
+              "RelativeToolTip": "FmAppApi\\Functions\\Players\\GetPlayers.cs",
+              "ViewState": "AQIAAA4AAACwmZmZmZkswBIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T00:35:21.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Function1.cs",
               "DocumentMoniker": "C:\\Users\\hendr\\OneDrive\\Dokumente\\Repos\\FMAppBackend\\FmAppApi\\FmAppApi\\Function1.cs",
               "RelativeDocumentMoniker": "FmAppApi\\Function1.cs",
@@ -26,12 +64,7 @@
               "RelativeToolTip": "FmAppApi\\Function1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T00:33:35.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-10-18T00:33:35.676Z"
             }
           ]
         }
