@@ -1,0 +1,6 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/FmAppApi/.vs/FmAppApi/DesignTimeBuild/.dtbcache.v2
+/FmAppApi/.vs/FmAppApi/FileContentIndex
